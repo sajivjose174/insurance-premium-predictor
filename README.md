@@ -97,7 +97,7 @@ The model was deployed using a **Streamlit web application**, allowing users to:
 
 ## 🔗 Project Links
 
-* 🌐 **Live App:** [https://your-app.streamlit.app](https://insurance-premium-predictor-dqwfltsxcljyb7tx7eh6rx.streamlit.app/)
+* 🌐 **Live App:** https://insurance-premium-predictor-dqwfltsxcljyb7tx7eh6rx.streamlit.app/
 * 📊 **Tableau Dashboard:** https://public.tableau.com/views/InsuranceCompanyDashbaord/Demographics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 * 📓 **Analysis Notebook:** Insurance_Cost_Prediction_Analysis.ipynb
 
