@@ -97,9 +97,10 @@ The model was deployed using a **Streamlit web application**, allowing users to:
 
 ## 🔗 Project Links
 
-* 🌐 **Live App:** https://insurance-premium-predictor-dqwfltsxcljyb7tx7eh6rx.streamlit.app/
-* 📊 **Tableau Dashboard:** https://public.tableau.com/views/InsuranceCompanyDashbaord/Demographics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-* 📓 **Analysis Notebook:** Insurance_Cost_Prediction_Analysis.ipynb
+*  **Live App:** https://insurance-premium-predictor-dqwfltsxcljyb7tx7eh6rx.streamlit.app/
+*  **Tableau Dashboard:** https://public.tableau.com/views/InsuranceCompanyDashbaord/Demographics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+*  **Loom Video Link:** https://www.loom.com/share/9d450ed0056e4eb1b6f05933783a5544
+*  **Analysis Notebook:** Insurance_Cost_Prediction_Analysis.ipynb
 
 ---
 
