@@ -100,6 +100,7 @@ The model was deployed using a **Streamlit web application**, allowing users to:
 *  **Live App:** https://insurance-premium-predictor-dqwfltsxcljyb7tx7eh6rx.streamlit.app/
 *  **Tableau Dashboard:** https://public.tableau.com/views/InsuranceCompanyDashbaord/Demographics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 *  **Loom Video Link:** https://www.loom.com/share/9d450ed0056e4eb1b6f05933783a5544
+*  **The Medium Blog Post** https://medium.com/@sajivjose174/eda-and-price-prediction-for-insurance-cost-dataset-using-regression-models-31e55bf02592?postPublishedType=repub
 *  **Analysis Notebook:** Insurance_Cost_Prediction_Analysis.ipynb
 
 ---
